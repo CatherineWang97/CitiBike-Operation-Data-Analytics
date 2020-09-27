@@ -22,9 +22,9 @@ The solution is composed of two parts -- the default setup of stations and docks
 The second part of the solution is to offer customer bonuses and build a customer-led solution to the rebalancing problem. By analyzing the density of routes and patterns at different times and seasons in NYC, for the most popular routes at a specific time and season, customers who follow the opposite routes could gain a bonus from Citi Bike. This mechanism of customer encouragement could automatically offset the rebalancing problem.
 
 <img height = "230" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_1.png /> 
-<img height = "230" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_3.png />
-<img height = "230" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_4.png />
-<img height = "230" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_5.png />
+<img height = "300" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_3.png />
+<img height = "400" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_4.png />
+<img height = "400" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_5.png />
 
 #### References:
 
