@@ -23,7 +23,7 @@ The second part of the solution is to offer customer bonuses and build a custome
 
 <img height = "230" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_1.png /> 
 <img height = "300" width = "700" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_3.png />
-<img height = "470" width = "1100" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_4.png />
+<img height = "400" width = "1100" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_4.png />
 <img height = "470" width = "1100" src=https://github.com/CatherineWang97/CitiBike-Operation-Data-Analytics/blob/master/CitiBike_5.png />
 
 #### References:
